@@ -1,0 +1,31 @@
+$Tanggal Error  : 30-08-2010 9:33:21 PM
+$SVN Revision   : 133
+$SVN Commit     : 2010/08/24 14:33:06
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1136)
+Column count doesn't match value count at row 1
+$Pesan          :
+$SQL Text       :
+insert into data_tutupbuku (tgl,id_pegawai,bos,modal,keterangan)
+values('2010-08-30',3,4000,00,4000,00,'')
+
+ 
+******************************************************************
+ 
+$Tanggal Error  : 30-08-2010 9:33:24 PM
+$SVN Revision   : 133
+$SVN Commit     : 2010/08/24 14:33:06
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1136)
+Column count doesn't match value count at row 1
+$Pesan          :
+$SQL Text       :
+insert into data_modal
+(tgl,besar,id_pegawai,keterangan,is_daritutupbuku,id_tutupbuku)
+values('2010-08-31',4000,00,3,'',1,0)
+
+ 
+******************************************************************
+ 

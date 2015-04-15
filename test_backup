@@ -1,0 +1,10 @@
+--  MySQL Database Dump 1.1
+--  Host: localhost    Database: pos_seafood58
+--  Server version 5.4.2-beta-community
+--
+--  Dump database pos_seafood58 on 28-07-2010 12:55:06 AM
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ pos_seafood58;
+USE pos_seafood58;
+

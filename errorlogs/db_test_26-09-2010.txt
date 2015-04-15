@@ -1,0 +1,28 @@
+$Tanggal Error  : 26-09-2010 2:33:55 PM
+$SVN Revision   : 151
+$SVN Commit     : 2010/09/23 22:25:02
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1054)
+Unknown column 'a.discount' in 'field list'
+$Pesan          :
+$SQL Text       :
+select func_GetPendapatan('2010-09-26')
+
+ 
+******************************************************************
+ 
+$Tanggal Error  : 26-09-2010 2:34:10 PM
+$SVN Revision   : 151
+$SVN Commit     : 2010/09/23 22:25:02
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1054)
+Unknown column 'a.discount' in 'field list'
+$Pesan          :
+$SQL Text       :
+select func_GetPendapatan('2010-09-26')
+
+ 
+******************************************************************
+ 

@@ -1,0 +1,32 @@
+$Tanggal Error  : 14-08-2010 8:24:18 PM
+$SVN Revision   : 105
+$SVN Commit     : 2010/08/12 23:57:51
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1064)
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where nama = ''' at line 2
+$Pesan          :
+$SQL Text       :
+select id_Satuan_laporan
+where nama = ''
+
+ 
+******************************************************************
+ 
+$Tanggal Error  : 14-08-2010 10:52:36 PM
+$SVN Revision   : 105
+$SVN Commit     : 2010/08/12 23:57:51
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1054)
+Unknown column 'id_pegawai' in 'field list'
+$Pesan          :
+$SQL Text       :
+insert into data_pengurangan_stok(id_subjenismenu,id_satuan,
+                              banyak,harga_satuan,alasan,
+                              tgl,id_pegawai)
+values(20,4,1.00,2000,'test aja','2010-08-14',1)
+
+ 
+******************************************************************
+ 

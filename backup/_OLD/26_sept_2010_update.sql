@@ -1,0 +1,1 @@
+ALTER TABLE `data_pegawai`  ADD COLUMN `discount` DOUBLE NULL AFTER `tgl_edit`;

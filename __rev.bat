@@ -1,0 +1,1 @@
+SubWCRev d:\seafood_58\trunk d:\seafood_58\trunk\__template_revision_svn.txt uSubWCRev.pas

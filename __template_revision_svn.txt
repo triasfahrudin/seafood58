@@ -1,0 +1,16 @@
+unit uSubWCRev;
+
+interface
+
+const
+  REVISION = '$WCREV$';
+  MODIFIED = '$WCMODS?Modified:Not modified$';
+  DATE     = '$WCDATE$';
+  BUILD    = '$WCNOW$';
+  RANGE    = '$WCRANGE$';
+  URL      = '$WCURL$';
+  CODENAME = 'VALERINE';
+
+implementation
+
+end.

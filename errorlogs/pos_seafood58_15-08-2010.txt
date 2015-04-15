@@ -1,0 +1,14 @@
+$Tanggal Error  : 15-08-2010 1:22:23 AM
+$SVN Revision   : 105
+$SVN Commit     : 2010/08/12 23:57:51
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1146)
+Table 'pos_seafood58.data_pengurangan_stok' doesn't exist
+$Pesan          :
+$SQL Text       :
+delete from data_pengurangan_stok where id = 7
+
+ 
+******************************************************************
+ 

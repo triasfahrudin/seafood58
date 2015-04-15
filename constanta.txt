@@ -1,0 +1,9 @@
+data_jenismenu
+ 1->makanan
+ 2->minuman
+ 3->lain
+
+data_pendapatan
+ 0->pake_meja
+ 1->penjualan_langsung
+ 2->lain2  

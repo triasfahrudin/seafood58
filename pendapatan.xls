@@ -1,0 +1,556 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<?fr-application created="FastReport"?>
+<?fr-application homesite="http://www.fast-report.com"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Title></Title>
+<Author></Author>
+<Created>05-08-2010T7:11:49 PMZ</Created>
+<Version>...</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="s0">
+<Font ss:FontName="Arial" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+<Interior ss:Color="#CCCCCC" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s1">
+<Font ss:FontName="Arial" ss:Size="14" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Font ss:FontName="Arial" ss:Size="14" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s3">
+<Font ss:FontName="Arial" ss:Size="14" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+<NumberFormat ss:Format="#,##0"/>
+</Style>
+<Style ss:ID="s4">
+<Font ss:FontName="Arial" ss:Size="14" ss:Color="#FF0000" ss:Italic="1"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+<NumberFormat ss:Format="#,##0"/>
+</Style>
+<Style ss:ID="s5">
+<Font ss:FontName="Arial" ss:Size="1" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+</Borders>
+</Style>
+<Style ss:ID="s6">
+<Font ss:FontName="Arial" ss:Size="10" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s7">
+<Font ss:FontName="Arial" ss:Size="10" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+</Styles>
+<Worksheet ss:Name="Page1">
+<Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="22" x:FullColumns="1" x:FullRows="1">
+<Column ss:AutoFitWidth="0" ss:Width="2.75"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.75"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.75"/>
+<Column ss:AutoFitWidth="0" ss:Width="49.46"/>
+<Column ss:AutoFitWidth="0" ss:Width="8.22"/>
+<Column ss:AutoFitWidth="0" ss:Width="8.24"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.75"/>
+<Column ss:AutoFitWidth="0" ss:Width="41.11"/>
+<Column ss:AutoFitWidth="0" ss:Width="0.68"/>
+<Column ss:AutoFitWidth="0" ss:Width="7.56"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.75"/>
+<Column ss:AutoFitWidth="0" ss:Width="50.63"/>
+<Column ss:AutoFitWidth="0" ss:Width="40.11"/>
+<Column ss:AutoFitWidth="0" ss:Width="14.30"/>
+<Column ss:AutoFitWidth="0" ss:Width="30.23"/>
+<Column ss:AutoFitWidth="0" ss:Width="50.35"/>
+<Column ss:AutoFitWidth="0" ss:Width="39.71"/>
+<Column ss:AutoFitWidth="0" ss:Width="44.53"/>
+<Column ss:AutoFitWidth="0" ss:Width="21.39"/>
+<Column ss:AutoFitWidth="0" ss:Width="87.90"/>
+<Column ss:AutoFitWidth="0" ss:Width="8.24"/>
+<Row ss:Height="19.23">
+<Cell ss:Index="1" ss:MergeAcross="20" ss:StyleID="s0" >
+<Data ss:Type="String">LAPORAN RUGI/LABA</Data>
+</Cell>
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="36.43">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="13.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" ss:MergeAcross="2" ss:StyleID="s1" >
+<Data ss:Type="String">TGL</Data>
+</Cell>
+<Cell ss:Index="7" ss:MergeAcross="5" ss:StyleID="s1" >
+<Data ss:Type="String">PENGELUARAN</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" ss:MergeAcross="2" ss:StyleID="s1" >
+<Data ss:Type="String">PENDAPATAN</Data>
+</Cell>
+<Cell ss:Index="17" />
+<Cell ss:Index="18" ss:MergeAcross="1" ss:StyleID="s1" >
+<Data ss:Type="String">SELISIH (Rp.)</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="4.20">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.57">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="s2" >
+<Data ss:Type="String">04-08-2010</Data>
+</Cell>
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="13.17">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s3" >
+<Data ss:Type="Number">20000</Data>
+</Cell>
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" ss:MergeDown="1" ss:StyleID="s3" >
+<Data ss:Type="Number">0</Data>
+</Cell>
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" ss:MergeDown="1" ss:StyleID="s4" >
+<Data ss:Type="Number">20000</Data>
+</Cell>
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.57">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="7.67">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.57">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="s2" >
+<Data ss:Type="String">05-08-2010</Data>
+</Cell>
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="13.17">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s3" >
+<Data ss:Type="Number">100000</Data>
+</Cell>
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="s3" >
+<Data ss:Type="Number">81000</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" ss:MergeDown="1" ss:StyleID="s4" >
+<Data ss:Type="Number">19000</Data>
+</Cell>
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.57">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="10.99">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" ss:MergeAcross="16" ss:StyleID="s5" >
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="13.01">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" ss:MergeAcross="3" ss:StyleID="s3" >
+<Data ss:Type="Number">120000</Data>
+</Cell>
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" ss:MergeAcross="1" ss:StyleID="s3" >
+<Data ss:Type="Number">81000</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="409.00">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="187.05">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" ss:MergeAcross="19" ss:StyleID="s5" >
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="4.13">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">05-08-2010</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="String">7:11:40 PM</Data>
+</Cell>
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<PageSetup>
+<PageMargins x:Bottom="0.38" x:Left="0.38" x:Right="0.38" x:Top="0.38"/>
+</PageSetup>
+</WorksheetOptions>
+<PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+<RowBreaks>
+</RowBreaks>
+</PageBreaks>
+</Worksheet>
+</Workbook>

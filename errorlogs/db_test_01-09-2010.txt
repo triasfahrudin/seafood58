@@ -1,0 +1,30 @@
+$Tanggal Error  : 01-09-2010 4:17:40 AM
+$SVN Revision   : 139
+$SVN Commit     : 2010/08/31 15:45:03
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1136)
+Column count doesn't match value count at row 1
+$Pesan          :
+$SQL Text       :
+insert into data_satuankonv(id_konversi,id_dasar,pengali,isOtomatis)
+values(1,5,10,00,0)
+
+ 
+******************************************************************
+ 
+$Tanggal Error  : 01-09-2010 10:55:49 PM
+$SVN Revision   : 139
+$SVN Commit     : 2010/08/31 15:45:03
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1064)
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-' at line 2
+$Pesan          :
+$SQL Text       :
+insert into data_satuankonv(id_konversi,id_dasar,pengali,isOtomatis)
+values(7,1,0.00,1)-
+
+ 
+******************************************************************
+ 

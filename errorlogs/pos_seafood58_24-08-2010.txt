@@ -1,0 +1,14 @@
+$Tanggal Error  : 24-08-2010 5:07:01 AM
+$SVN Revision   : 130
+$SVN Commit     : 2010/08/23 01:48:11
+$Error Class    : EmySQLDatabaseError
+$Error Message  : 
+mySQL Error Code: (1054)
+Unknown column 'func_GetModalTerakhir' in 'field list'
+$Pesan          :
+$SQL Text       :
+select func_GetModalTerakhir
+
+ 
+******************************************************************
+ 

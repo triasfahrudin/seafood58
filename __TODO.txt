@@ -1,0 +1,50 @@
+format currency : #,##0.00
+
+kolom banyak dan total dalam format float,
+namun hanya tampilan pada kolom banyak saja yang float
+
+*cari cara format string dalam format rupiah
+*laporan untuk mengetahui jumlah penjualan dengan format
+
+bulan-tahun 
+
+nama_makanan   satuan  jumlah_satuan_terjual total_harga
+                                              
+makanan1        kg       xxx                 xxx 
+makanan2        porsi    xxx                 xxx
+
+*pada catatan pengeluaran, ganti eItem dengan checkbox
+ yang autocomplete dengan item2 yang sudah pernah dimasukkan
+
+* Pengambilan pribadi dalam ilmu akuntansi disebut prive (berasal dari kata private = pribadi) 
+
+
+select f.nama as nama_barang ,
+       a.KODE_BARANG as kode,
+		 format(sum(a.jumlah * b.pengali),0) as jumlah_barang,
+       format(sum(a.jumlah * b.pengali) * sum((e.HARGA / b.pengali) * c.kursakhir),0) as nilai_penjualan
+from penjualan_detail a
+
+left join (select kode_barang,
+                  kode_penjualan,
+                  harga 
+			  from penjualan_detail) e		  			  
+on a.KODE_PENJUALAN = e.kode_penjualan and
+   a.KODE_BARANG = e.kode_barang
+
+left join penjualan d
+on e.KODE_PENJUALAN = d.KODE
+
+left join barang f
+on e.kode_barang = f.KODE
+`pos_seafood58`
+left join satuan_konv b
+on a.KODE_SATUAN = b.KODE_SATUAN_KONVERSI
+
+left join (select a.kode as kode,a.kursakhir as kursakhir 
+           from mata_uang a           
+			  ) c
+on d.mata_uang = c.kode	
+
+where tgl_input between '2010-03-09' and '2010-03-31'
+group by  a.KODE_BARANG
